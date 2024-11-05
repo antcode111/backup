@@ -7,3 +7,11 @@
 otpauth://totp/GitHub:antcode111?secret=WZY57AV4ZZVX25M7&issuer=GitHub
 longying8980@gmail.com/Tiny123
 wanggang1987119@gmail.com
+
+I'd like to discuss a remote job with you
+vicente.bolea@gmail.com
+mklement0@gmail.com
+pieter.roggemans@gmail.com
+Syed Hussain <ahmedhussaindev@gmail.com>
+Jonathan Leffler <jonathan.leffler@gmail.com>
+Kyle <kkumar.codes@gmail.com>
