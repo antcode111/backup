@@ -5,8 +5,8 @@
 4. 1931 9177		 9. 6210 0355
 5. 1246 8045		10. 4858 3879
 otpauth://totp/GitHub:antcode111?secret=WZY57AV4ZZVX25M7&issuer=GitHub
-longying8980@gmail.com/Tiny123
-wanggang1987119@gmail.com
+long8980@hotmail.com/Tiny123
+wang1987119@hotmail.com
 
 otpauth://totp/Google:long%40opalvest.com?secret=qmq33b4aafoahtelan7pv5tvpehxburw&issuer=Google
 otpauth://totp/GitHub:serberm?secret=G7V2OVSFMJTWTIXF&issuer=GitHub
